@@ -1,12 +1,9 @@
 ﻿using ProjetoModeloDDD.Domain.Entities;
 using ProjetoModeloDDD.Infra.Data.EntityConfig;
 using System;
-using System.Collections.Generic;
 using System.Data.Entity;
 using System.Data.Entity.ModelConfiguration.Conventions;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ProjetoModeloDDD.Infra.Data.Context
 {
@@ -19,6 +16,7 @@ namespace ProjetoModeloDDD.Infra.Data.Context
         }
 
         public DbSet<Cliente> Clientes { get; set; }
+        public DbSet<Produto> Produtos { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
@@ -36,7 +34,8 @@ namespace ProjetoModeloDDD.Infra.Data.Context
             modelBuilder.Properties<string>() //por padrão uma string tera o maxlength de 100
                 .Configure(p => p.HasMaxLength(100));
 
-            modelBuilder.Configurations.Add(new ClienteConfiguration());
+            modelBuilder.Configurations.Add(new ClienteConfiguration()); //adicionar as especificações da tabela definidas na class Configuration
+            modelBuilder.Configurations.Add(new ProdutoConfiguration());
         }
 
         public override int SaveChanges() //Salvar a DataCadastro de forma automatica no SaveChanges

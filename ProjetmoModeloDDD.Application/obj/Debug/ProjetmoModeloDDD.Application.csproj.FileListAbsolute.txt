@@ -1,0 +1,9 @@
+C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetmoModeloDDD.Application\bin\Debug\ProjetmoModeloDDD.Application.dll
+C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetmoModeloDDD.Application\bin\Debug\ProjetmoModeloDDD.Application.pdb
+C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetmoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Domain.dll
+C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetmoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Domain.pdb
+C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetmoModeloDDD.Application\obj\Debug\ProjetmoModeloDDD.Application.csprojAssemblyReference.cache
+C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetmoModeloDDD.Application\obj\Debug\ProjetmoModeloDDD.Application.csproj.CoreCompileInputs.cache
+C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetmoModeloDDD.Application\obj\Debug\ProjetmoModeloDDD.Application.csproj.CopyComplete
+C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetmoModeloDDD.Application\obj\Debug\ProjetmoModeloDDD.Application.dll
+C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetmoModeloDDD.Application\obj\Debug\ProjetmoModeloDDD.Application.pdb

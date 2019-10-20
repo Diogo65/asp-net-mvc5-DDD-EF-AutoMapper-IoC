@@ -1,5 +1,3 @@
-C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.csprojAssemblyReference.cache
-C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.csproj.CoreCompileInputs.cache
 C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Infra.Data.dll.config
 C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Infra.Data.dll
 C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Infra.Data.pdb
@@ -9,6 +7,8 @@ C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.Infra.Data\bin\D
 C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Domain.pdb
 C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.xml
 C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.csprojAssemblyReference.cache
+C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.csproj.CoreCompileInputs.cache
 C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.csproj.CopyComplete
 C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.dll
 C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.pdb
