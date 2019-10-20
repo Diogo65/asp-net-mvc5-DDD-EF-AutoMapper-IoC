@@ -1,3 +1,4 @@
+C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.MVC\bin\AutoMapper.Net4.dll
 C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.MVC.dll.config
 C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.MVC.dll
 C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.MVC.pdb
@@ -48,9 +49,16 @@ C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.MVC\bin\roslyn\v
 C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.MVC\bin\roslyn\VBCSCompiler.exe
 C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.MVC\bin\roslyn\VBCSCompiler.exe.config
 C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.MVC\bin\Antlr3.Runtime.dll
+C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.MVC\bin\AutoMapper.dll
 C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.MVC\bin\Microsoft.Web.Infrastructure.dll
 C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.MVC\bin\Newtonsoft.Json.dll
+C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.MVC\bin\Ninject.dll
+C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.MVC\bin\Ninject.Web.Common.dll
+C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.MVC\bin\Ninject.Web.Mvc.dll
+C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.MVC\bin\ProjetmoModeloDDD.Application.dll
+C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Domain.dll
+C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Infra.Data.dll
 C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.MVC\bin\System.Web.Helpers.dll
 C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.MVC\bin\System.Web.Mvc.dll
 C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.MVC\bin\System.Web.Optimization.dll
@@ -58,7 +66,17 @@ C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.MVC\bin\System.W
 C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.Deployment.dll
 C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.dll
 C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.Razor.dll
+C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.MVC\bin\WebActivatorEx.dll
 C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.MVC\bin\WebGrease.dll
+C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.MVC\bin\EntityFramework.dll
+C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.MVC\bin\ProjetmoModeloDDD.Application.pdb
+C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Domain.pdb
+C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Infra.Data.pdb
+C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Infra.Data.dll.config
+C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.MVC\bin\AutoMapper.xml
+C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.MVC\bin\Ninject.xml
+C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.MVC\bin\Ninject.Web.Common.xml
+C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.MVC\bin\Ninject.Web.Mvc.xml
 C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.MVC\bin\System.Web.Helpers.xml
 C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.MVC\bin\System.Web.Mvc.xml
 C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.MVC\bin\System.Web.Optimization.xml
@@ -69,6 +87,7 @@ C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.MVC\bin\System.W
 C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.MVC\bin\Newtonsoft.Json.xml
 C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.MVC\bin\Antlr3.Runtime.pdb
 C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.MVC\bin\EntityFramework.xml
 C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.csprojAssemblyReference.cache
 C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.csproj.CoreCompileInputs.cache
 C:\projects\asp-net-mvc5-DDD-EF-AutoMapper-IoC\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.csproj.CopyComplete
